@@ -1,50 +1,46 @@
 ## Hi there 👋
 
-<!--
-**smriti1008/smriti1008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hey 👋, I'm Saurabh Gupta</h1>
-<h3 align="center">💻 A Passionate Full-Stack Developer from Gorakhpur, India 🇮🇳</h3>
+
+
+<h1 align="center">Hey 👋 I'm, Saurabh Gupta </h1>
+<h3 align="center">💻 A Passionate Frontend Developer from Lucknow, India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif">
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/amit_sahani_19">
-    <img src="https://img.shields.io/twitter/follow/amit_sahani_19?logo=twitter&style=for-the-badge" />
-  </a>
-  <a href="https://linkedin.com/in/amit-kumar-sahani-849537246">
+
+  
+ 
+  <a href="https://linkedin.com/in/www.linkedin.com/in/100rabh-gupta">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/_.__i_sahani">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:amitsahani2322003@gmail.com">
+   </a>
+  <a href="mailto:100rabhgupta8400@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+   </a>
+  <a href="https://leetcode.com/u/100rabh_gupta/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/100rabh_.gupta/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+ 
+ 
+  
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working as  **Backend Developer**
+- 🔭 I’m currently working as  **Frontend Developer**
 - 🌱 Currently learning **Data Structures & Algorithms (DSA)**
-- 🧠 Ask me about ** Mirco-services , system Design , React.js, Node.js, MongoDB, Firebase, Docker, AWS, Appwrite & more**
-- 📫 How to reach me: **amitsahani2322003@gmail.com**
-- 📄 [A bit my self ](https://www.notion.so/Shipping-Ideas-One-Commit-at-a-Time-1f4f671e825c80c5a3d6e7f552088fba?source=copy_link)
+- 🧠 Ask me about **   HTML5, CSS , Tailwin ,Javascript, React.js , SQL , Mysql,  & more**
+- 📫 How to reach me: **100rabhgupta8400@gmail.com**
 - ⚡ Fun Fact: *I love clean code... and bad jokes!*
 
 ---
@@ -60,12 +56,12 @@ Here are some ideas to get you started:
 ### 📈 GitHub Stats & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amit-23-hub&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-23-hub&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=100rabh-Gupta&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=100rabh-Gupta&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amit-23-hub&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=100rabh-Gupta&theme=tokyonight" />
 </p>
 
 ---
@@ -73,7 +69,7 @@ Here are some ideas to get you started:
 ### 📊 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amit-23-hub&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=100rabh-Gupta&theme=tokyo-night" />
 </p>
 
 ---
@@ -81,7 +77,7 @@ Here are some ideas to get you started:
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amit-23-hub&theme=dracula&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=100rabh-Gupta&theme=dracula&row=2&column=4" />
 </p>
 
 ---
@@ -92,5 +88,5 @@ Here are some ideas to get you started:
 > – Alan Kay
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Problem+Solver;Open+Source+Contributor;Lifelong+Learner&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Web+Developer;Problem+Solver;Open+Source+Contributor;Lifelong+Learner&center=true&width=500&height=45">
 </p>
