@@ -1,10 +1,7 @@
 ## Hi there 👋
 
 
-
-
-
-<h1 align="center">Hey 👋 I'm, Saurabh Gupta </h1>
+<h1 align="center">Hey 👋 I'm, Smriti Singh </h1>
 <h3 align="center">💻 A Passionate Frontend Developer from Lucknow, India 🇮🇳</h3>
 
 <p align="center">
@@ -19,7 +16,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
    </a>
-  <a href="mailto:100rabhgupta8400@gmail.com">
+  <a href="mailto:Smritisingh9118@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
    </a>
