@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 <h1 align="center">Hey 👋 I'm, Smriti Singh </h1>
 <h3 align="center">💻 A Passionate Frontend Developer from Lucknow, India 🇮🇳</h3>
 
@@ -12,7 +9,7 @@
 
   
  
-  <a href="https://linkedin.com/in/www.linkedin.com/in/100rabh-gupta">
+  <a href="https://www.linkedin.com/in/smriti-singh040705/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
    </a>
@@ -23,7 +20,7 @@
   <a href="https://leetcode.com/u/100rabh_gupta/">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/100rabh_.gupta/">
+  <a href="https://www.instagram.com/smritiiii.05/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
  
  
