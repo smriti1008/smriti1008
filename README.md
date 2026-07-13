@@ -33,9 +33,9 @@
 
 - 🔭 I’m currently working as  **Frontend Developer**
 - 🌱 Currently learning **Data Structures & Algorithms (DSA)**
-- 🧠 Ask me about **   HTML5, CSS , Tailwin ,Javascript, React.js , SQL , Mysql,  & more**
-- 📫 How to reach me: **100rabhgupta8400@gmail.com**
-- ⚡ Fun Fact: *I love clean code... and bad jokes!*
+- 🧠 Ask me about **   HTML5, CSS , Tailwin ,Javascript, React.js , SQL , Mysql, C++ ,Python & more**
+- 📫 How to reach me: **Smritisingh9118@gmail.com**
+- ⚡ Fun Fact: *I love clean code... and good jokes!*
 
 ---
 
@@ -50,12 +50,12 @@
 ### 📈 GitHub Stats & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=100rabh-Gupta&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=100rabh-Gupta&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=smriti1008&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smriti1008&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=100rabh-Gupta&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smriti1008&theme=tokyonight" />
 </p>
 
 ---
@@ -63,7 +63,7 @@
 ### 📊 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=100rabh-Gupta&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smriti1008&theme=tokyo-night" />
 </p>
 
 ---
@@ -71,7 +71,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=100rabh-Gupta&theme=dracula&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=smriti1008&theme=dracula&row=2&column=4" />
 </p>
 
 ---
