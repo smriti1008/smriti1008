@@ -63,7 +63,7 @@
 ### 📊 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smriti1008&theme=tokyo-night" />
+  
 </p>
 
 ---
