@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
    </a>
-  <a href="https://leetcode.com/u/100rabh_gupta/">
+  <a href="https://leetcode.com/u/Smritii005/">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/smritiiii.05/">
