@@ -33,7 +33,7 @@
 
 - 🔭 I’m currently working as  **Frontend Developer**
 - 🌱 Currently learning **Data Structures & Algorithms (DSA)**
-- 🧠 Ask me about **   HTML5, CSS , Tailwin ,Javascript, React.js , SQL , Mysql, C++ ,Python & more**
+- 🧠 Ask me about **   HTML5, CSS , Tailwind ,Javascript, React.js, Node.js, Express.js, SQL , Mysql, C++ ,Python & more**
 - 📫 How to reach me: **Smritisingh9118@gmail.com**
 - ⚡ Fun Fact: *I love clean code... and good jokes!*
 
