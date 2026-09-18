@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋 I'm, Smriti Singh </h1>
-<h3 align="center">💻 A Passionate Frontend Developer from Lucknow, India 🇮🇳</h3>
+<h3 align="center">💻 A Passionate Full-Stack Developer from Lucknow, India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif">
@@ -31,7 +31,7 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working as  **Frontend Developer**
+- 🔭 I’m currently building  **full-stack web applications**
 - 🌱 Currently learning **Data Structures & Algorithms (DSA)**
 - 🧠 Ask me about **   HTML5, CSS , Tailwind ,Javascript, React.js, Node.js, Express.js, SQL , Mysql, C++ ,Python & more**
 - 📫 How to reach me: **Smritisingh9118@gmail.com**
