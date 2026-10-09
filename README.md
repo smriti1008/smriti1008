@@ -1,129 +1,189 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0C14,50:292438,100:655578&height=200&section=header&text=Smriti%20Singh&fontSize=50&fontColor=EDE6F7&fontAlignY=38&desc=full-stack%20developer%20in%20the%20making&descSize=15&descAlignY=59&descColor=C5B5DE&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:171521,40:443450,75:8F789E,100:D9AFC7&text=SMRITI%20SINGH&fontSize=48&fontColor=FFF7FC&fontAlignY=38&desc=developer%20%7C%20dreamer%20%7C%20work%20in%20progress&descSize=14&descAlignY=58&animation=fadeIn" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=C5B5DE&center=true&vCenter=true&width=500&lines=building+things+that+make+sense;learning+by+building+%E2%9C%A6;one+commit+closer+than+yesterday" alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&duration=3000&pause=900&color=C9A9D8&center=true&vCenter=true&width=550&lines=turning+coffee+into+code+%E2%98%95;building+ideas+into+reality+%E2%9C%A6;learning+something+new+every+day+%E2%99%A1" alt="Animated introduction" />
 
 <br/><br/>
 
-<a href="https://github.com/smriti1008"><img src="https://img.shields.io/badge/GitHub-171521?style=for-the-badge&logo=github&logoColor=C5B5DE" /></a> <a href="https://www.linkedin.com/in/smriti-singh040705/"><img src="https://img.shields.io/badge/LinkedIn-171521?style=for-the-badge&logo=linkedin&logoColor=C5B5DE" /></a> <a href="https://leetcode.com/u/Smritii005/"><img src="https://img.shields.io/badge/LeetCode-171521?style=for-the-badge&logo=leetcode&logoColor=C5B5DE" /></a> <a href="mailto:Smritisingh9118@gmail.com"><img src="https://img.shields.io/badge/Contact-171521?style=for-the-badge&logo=gmail&logoColor=C5B5DE" /></a>
+<a href="https://github.com/smriti1008"><img src="https://img.shields.io/badge/GitHub-201B2B?style=for-the-badge&logo=github&logoColor=E5C9E8" /></a> <a href="https://www.linkedin.com/in/smriti-singh040705/"><img src="https://img.shields.io/badge/LinkedIn-201B2B?style=for-the-badge&logo=linkedin&logoColor=C9B7ED" /></a> <a href="https://leetcode.com/u/Smritii005/"><img src="https://img.shields.io/badge/LeetCode-201B2B?style=for-the-badge&logo=leetcode&logoColor=F4C7A5" /></a> <a href="mailto:Smritisingh9118@gmail.com"><img src="https://img.shields.io/badge/Email-201B2B?style=for-the-badge&logo=gmail&logoColor=E6B8CC" /></a>
 
 <br/>
 
-<sub>LUCKNOW, INDIA   ·   ENGINEERING STUDENT   ·   SOFTWARE DEVELOPER</sub>
+`MECHANICAL ENGINEERING → SOFTWARE DEVELOPMENT`
 
 </div>
 
----
-
-### ⟡   ABOUT ME
-
-Hey, I'm Smriti — an engineering student exploring software development through projects, problem-solving, and a lot of debugging.
-
-* `01`   Building full-stack web applications
-* `02`   Practising DSA in C++
-* `03`   Exploring backend systems and AI-powered apps
-* `04`   Always learning something beyond the syllabus
-
-<blockquote>
-  <i>“Make it work. Make it right. Make it better.”</i>
-</blockquote>
-
-### ⟡   TECH STACK
+<br/>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,js,python,html,css,react,tailwind,redux,nodejs,express,mongodb,mysql,git,github,postman,vscode&theme=dark" />
+## ୨୧   THE GIRL BEHIND THE CODE   ୨୧
 
 </div>
 
-### ⟡   SELECTED WORK
-
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
-<h3>♟ Chess Working Clone</h3>
+Hey, I'm **Smriti**! ♡
 
-A browser-based chess project with multiplayer interactions and real-time communication.
+An engineering student who loves building things, solving problems, and figuring out how technology works.
 
-<sub>JAVASCRIPT · NODE.JS · SOCKET.IO</sub>
+Currently exploring the intersection of **full-stack development, problem-solving, and AI** — one project and one bug at a time.
 
-<br/><br/>
+✧ Building web applications
 
-<a href="https://github.com/smriti1008/chess-working-clone">↗ VIEW REPOSITORY</a>
+✧ Practising DSA with C++
 
-</td>
-<td width="50%" valign="top">
+✧ Exploring backend development
 
-<h3>⌘ BookMart</h3>
-
-A full-stack bookstore focused on user accounts, cart management, and order flows.
-
-<sub>REACT · EXPRESS · MONGODB</sub>
-
-<br/><br/>
-
-<a href="https://github.com/smriti1008?tab=repositories">↗ EXPLORE REPOSITORIES</a>
+✧ Learning, experimenting, improving
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="40%" align="center" valign="middle">
 
-<h3>✧ Gemini-inspired AI Chat</h3>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Developer coding animation" />
 
-An AI chat interface exploring prompt submission, response handling, and conversation history.
-
-<sub>REACT · JAVASCRIPT · GEMINI API</sub>
-
-<br/><br/>
-
-<a href="https://github.com/smriti1008?tab=repositories">↗ EXPLORE REPOSITORIES</a>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>⌂ Interior Design Website</h3>
-
-A frontend project exploring responsive layouts, animation, and visual storytelling.
-
-<sub>REACT · TAILWIND CSS</sub>
-
-<br/><br/>
-
-<a href="https://github.com/smriti1008?tab=repositories">↗ EXPLORE REPOSITORIES</a>
+<sub>currently romanticising the process ♡</sub>
 
 </td>
 </tr>
 </table>
 
-### ⟡   GITHUB ACTIVITY
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=smriti1008&show_icons=true&hide_border=true&bg_color=171521&title_color=C5B5DE&text_color=E5DFEE&icon_color=9B87BB&rank_icon=github" alt="GitHub statistics" />
+## ✧   MY DIGITAL TOOLKIT   ✧
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smriti1008&layout=compact&hide_border=true&bg_color=171521&title_color=C5B5DE&text_color=E5DFEE" alt="Top languages" />
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=smriti1008&hide_border=true&background=171521&ring=9B87BB&fire=C5B5DE&currStreakLabel=C5B5DE&sideLabels=E5DFEE&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAA0C4" alt="GitHub streak" />
+<sub>the tools I use to turn ideas into things</sub>
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=smriti1008&bg_color=171521&color=E5DFEE&line=9B87BB&point=C5B5DE&area=true&area_color=292438&hide_border=true" alt="Contribution graph" />
+**01 — LANGUAGES**
+
+<img src="https://skillicons.dev/icons?i=cpp,js,python,mysql&theme=dark" />
+
+<br/>
+
+**02 — FRONTEND**
+
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,redux&theme=dark" />
+
+<br/>
+
+**03 — BACKEND & WORKFLOW**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,github,postman,vscode&theme=dark" />
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-<sub>less perfection, more progress.   ⟡   thanks for being here.</sub>
+## ♡   THINGS I'VE BROUGHT TO LIFE   ♡
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:655578,50:292438,100:0D0C14&height=100&section=footer" />
+<sub>little ideas, real code</sub>
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://placehold.co/600x240/292237/E8CBEA?text=CHESS+%2F%2F+MULTIPLAYER" width="100%" alt="Chess project cover" />
+
+### ♟ Chess Working Clone
+
+A browser-based chess project focused on multiplayer interaction and real-time communication.
+
+`JAVASCRIPT` `NODE.JS` `SOCKET.IO`
+
+[ EXPLORE PROJECT ↗](https://github.com/smriti1008/chess-working-clone)
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://placehold.co/600x240/292237/E8CBEA?text=BOOKMART+%2F%2F+FULL+STACK" width="100%" alt="BookMart project cover" />
+
+### 📚 BookMart
+
+A full-stack bookstore exploring user accounts, shopping carts, and order management.
+
+`REACT` `EXPRESS` `MONGODB`
+
+[ EXPLORE REPOSITORIES ↗](https://github.com/smriti1008?tab=repositories)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://placehold.co/600x240/292237/E8CBEA?text=AI+CHAT+%2F%2F+REACT" width="100%" alt="AI chat project cover" />
+
+### ✦ Gemini-inspired AI Chat
+
+A conversational interface exploring prompts, responses, and interactive loading states.
+
+`REACT` `JAVASCRIPT` `GEMINI API`
+
+[ EXPLORE REPOSITORIES ↗](https://github.com/smriti1008?tab=repositories)
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://placehold.co/600x240/292237/E8CBEA?text=INTERIORS+%2F%2F+DESIGN" width="100%" alt="Interior design project cover" />
+
+### ⌂ Interior Design
+
+A design-focused website exploring responsive layouts, visual storytelling, and animation.
+
+`REACT` `TAILWIND CSS` `FRAMER MOTION`
+
+[ EXPLORE REPOSITORIES ↗](https://github.com/smriti1008?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+## ☾   MY GITHUB UNIVERSE   ☾
+
+<sub>every contribution is a little step forward</sub>
+
+<br/><br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=smriti1008&show_icons=true&hide_border=true&bg_color=201B2B&title_color=D9B9E8&text_color=EDE4F0&icon_color=E6B8CC&rank_icon=github" alt="GitHub stats" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smriti1008&layout=compact&hide_border=true&bg_color=201B2B&title_color=D9B9E8&text_color=EDE4F0" alt="Top languages" />
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=smriti1008&hide_border=true&background=201B2B&ring=D9B9E8&fire=E6B8CC&currStreakLabel=D9B9E8&sideLabels=EDE4F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=B8A9C5" alt="Contribution streak" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=smriti1008&bg_color=201B2B&color=EDE4F0&line=D9B9E8&point=E6B8CC&area=true&area_color=443450&hide_border=true" alt="GitHub activity graph" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## ୨୧   A LITTLE REMINDER   ୨୧
+
+*You don't have to have it all figured out.*
+
+*You just have to keep showing up.*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D9AFC7,50:8F789E,100:171521&height=120&section=footer" width="100%" />
+
+<sub>made with curiosity, caffeine & a little bit of ✨</sub>
 
 </div>
