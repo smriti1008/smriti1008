@@ -32,7 +32,7 @@ Hey, I'm **Smriti**! ♡
 
 An engineering student who loves building things, solving problems, and figuring out how technology works.
 
-Currently exploring the intersection of **full-stack development, problem-solving, and AI** — one project and one bug at a time.
+Currently exploring the intersection of **full-stack development, problem-solving, and AI** - one project and one bug at a time.
 
 ✧ Building web applications
 
@@ -83,9 +83,9 @@ Currently exploring the intersection of **full-stack development, problem-solvin
 
 <div align="center">
 
-## ♡   THINGS I'VE BROUGHT TO LIFE   ♡
+## ✦ &nbsp; FEATURED PROJECTS &nbsp; ✦
 
-<sub>little ideas, real code</sub>
+<sub>A selection of my development work</sub>
 
 </div>
 
